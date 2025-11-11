@@ -1,0 +1,187 @@
+"use client";
+
+import { useState, useEffect } from "react";
+// Next.js App Router navigatsiyasi
+import { useRouter } from "next/navigation";
+// Next.js sahifalar o'rtasida o'tish linki
+import Link from "next/link";
+import { useGlobalContext } from "@/context/GlobalContext";
+
+const LoginPage = () => {
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [error, setError] = useState(null);
+  const router = useRouter();
+
+  const { loginUser, loginWithGoogle, loginAnonymously, user, loading } =
+    useGlobalContext();
+
+  useEffect(() => {
+    if (!loading && user) {
+      router.replace("/");
+    }
+  }, [user, loading, router]);
+
+  const handleLogin = async (e) => {
+    e.preventDefault();
+    setError(null);
+    try {
+      await loginUser(email, password);
+      router.push("/");
+    } catch (err) {
+      setError("Kirishda xato: " + err.message);
+    }
+  };
+
+  // Google orqali kirish
+  const handleGoogleLogin = async () => {
+    setError(null);
+    try {
+      await loginWithGoogle();
+      router.push("/");
+    } catch (err) {
+      setError("Google kirishda xato: " + (err.message || "Boshqa xato."));
+    }
+  };
+
+  const handleAnonymousLogin = async () => {
+    setError(null);
+    try {
+      await loginAnonymously();
+      router.push("/");
+    } catch (err) {
+      setError("Anonim kirishda xato: " + err.message);
+    }
+  };
+
+  if (loading || user) {
+    return (
+      <div className="min-h-screen flex items-center justify-center text-xl text-gray-600">
+        Yuklanmoqda / Yo'naltirilmoqda...
+      </div>
+    );
+  }
+
+  return (
+    <div className="min-h-screen bg-base-200 flex items-center justify-center p-4">
+      <div className="card w-full max-w-md bg-base-100 shadow-xl p-8">
+        <h2 className="text-3xl font-bold text-center mb-6">Tizimga Kirish</h2>
+
+        {error && (
+          <div role="alert" className="alert alert-error mb-4">
+            <svg /*... SVG kodi ...*/ viewBox="0 0 24 24">
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z"
+              />
+            </svg>
+            <span>{error}</span>
+          </div>
+        )}
+
+        <form onSubmit={handleLogin}>
+          <div className="form-control mb-4">
+            <label className="label">
+              <span className="label-text">Email</span>
+            </label>
+            <input
+              type="email"
+              placeholder="E-mail manzilingiz"
+              className="input input-bordered w-full"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              required
+            />
+          </div>
+
+          <div className="form-control mb-6">
+            <label className="label">
+              <span className="label-text">Parol</span>
+            </label>
+            <input
+              type="password"
+              placeholder="Parolingiz"
+              className="input input-bordered w-full"
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+              required
+            />
+          </div>
+
+          <div className="form-control">
+            <button type="submit" className="btn btn-primary w-full">
+              Kirish
+            </button>
+          </div>
+        </form>
+
+        <div className="divider">Yoki</div>
+
+        <button
+          className="btn btn-outline w-full mb-3"
+          onClick={handleGoogleLogin}
+        >
+          <svg
+            aria-label="Google logo"
+            className="w-5 h-5 mr-2 googleIcon"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 512 512"
+          >
+            <g>
+              <path fill="#fff" d="m0 0H512V512H0" />
+              <path
+                fill="#34a853"
+                d="M153 292c30 82 118 95 171 60h62v48A192 192 0 0190 341"
+              />
+              <path
+                fill="#4285f4"
+                d="m386 400a140 175 0 0053-179H260v74h102q-7 37-38 57"
+              />
+              <path
+                fill="#fbbc02"
+                d="m90 341a208 200 0 010-171l63 49q-12 37 0 73"
+              />
+              <path
+                fill="#ea4335"
+                d="m153 219c22-69 116-109 179-50l55-54c-78-75-230-72-297 55"
+              />
+            </g>
+          </svg>
+          Google orqali kirish
+        </button>
+
+        <button
+          className="btn btn-outline w-full"
+          onClick={handleAnonymousLogin}
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            strokeWidth={1.5}
+            stroke="currentColor"
+            className="w-5 h-5 mr-2"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              d="M17.982 18.725A7.488 7.488 0 0012 15.75a7.488 7.488 0 00-5.982 2.975m11.963 0a7.5 7.5 0 00-11.963 0M12 12a3.75 3.75 0 100-7.5 3.75 3.75 0 000 7.5z"
+            />
+          </svg>
+          Mehmon sifatida kirish (Anonim)
+        </button>
+
+        <p className="text-center mt-6 text-sm">
+          Akkauntingiz yo'qmi?
+          <Link href="/register" className="link link-primary">
+            Ro'yxatdan o'tish
+          </Link>
+        </p>
+      </div>
+    </div>
+  );
+};
+
+export default LoginPage;

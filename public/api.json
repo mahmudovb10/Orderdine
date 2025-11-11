@@ -1,0 +1,1506 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Qora Non (Premium Bug'doy)",
+      "description": "Eng yaxshi sifatli un va yuqori protein bilan tayyorlangan non. SEO: qora non, bug'doy.",
+      "price": 4000,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 350,
+      "categorySlug": "non-mahsulotlari",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XbtoFWlonYEts1HCBTpKkklLRW2i0TGzaw&s",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XbtoFWlonYEts1HCBTpKkklLRW2i0TGzaw&s"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Oq Non (Baton) - Yumshoq",
+      "description": "Eng yuqori navli undan yumshoq usulda pishirilgan oq baton. LCP optimallashtirilgan.",
+      "price": 3500,
+      "discountPercentage": 5.0,
+      "rating": 4.5,
+      "stock": 500,
+      "categorySlug": "non-mahsulotlari",
+      "thumbnail": "https://qamshy.kz/image/2020/07/15/crop-24_50_537x910_bez-nazvaniya.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?baton_yumshoq",
+        "https://source.unsplash.com/800x600/?oq_non"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Chiroyli Non (Uzun Katta)",
+      "description": "Yirik oilalar uchun mo'ljallangan katta hajm. UX va Virtualizatsiya sinovi.",
+      "price": 5000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 120,
+      "categorySlug": "non-mahsulotlari",
+      "thumbnail": "https://suret.pics/uploads/posts/2023-09/1695450442_2-20.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?uzun_kattanon",
+        "https://source.unsplash.com/800x600/?uzbek_non"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Lavash ",
+      "description": "Tez ovqatlanish uchun qulay. Katta ro'yxatlarni filtratsiya qilishda qulay.",
+      "price": 8000,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 80,
+      "categorySlug": "non-mahsulotlari",
+      "thumbnail": "https://www.patee.ru/r/x6/1a/94/e4/640m.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?lavash_5dona",
+        "https://source.unsplash.com/800x600/?yupqa_lavash"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Xamir Turush (Tez Eriyuvchi)",
+      "description": "Non va pishiriqlar uchun yuqori sifatli xamirturush.",
+      "price": 1500,
+      "discountPercentage": 0,
+      "rating": 4.3,
+      "stock": 600,
+      "categorySlug": "non-mahsulotlari",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKjsDdIxTBDBgB1jyEsDWipgFhr_BAGbrC8A&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?tez_eruvchi_xamirturush",
+        "https://source.unsplash.com/800x600/?pishiriq_turush"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Xo'rozqand ",
+      "description": "Bolalar uchun shirinlik. Turli ranglarda.",
+      "price": 2000,
+      "discountPercentage": 0,
+      "rating": 3.9,
+      "stock": 900,
+      "categorySlug": "shirinliklar",
+      "thumbnail": "https://www.uzreport.news/fotobank/image/64c1234dcd22d3866dbf6f07dad65d5c.jpeg",
+      "images": [
+        "https://source.unsplash.com/800x600/?xorozqand_shirinlik",
+        "https://source.unsplash.com/800x600/?yog_siz_konfet"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Shokolad (Sutli) 100g",
+      "description": "Klassik sutli shokolad. Qo'lda yozilgan JSON namuna.",
+      "price": 15000,
+      "discountPercentage": 15.0,
+      "rating": 4.8,
+      "stock": 450,
+      "categorySlug": "shirinliklar",
+      "thumbnail": "https://www.sparkysonline.com/prodimages/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/i/m/img_4630_1.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?shokolad_100g",
+        "https://source.unsplash.com/800x600/?shirin_shokolad"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Shokolad (Achchiq) 75%",
+      "description": "75% kakao miqdori bilan achchiq shokolad. Katta yoshdagilar uchun.",
+      "price": 18000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 300,
+      "categorySlug": "shirinliklar",
+      "thumbnail": "https://data.daryo.uz/media/2021/02/dark-chocolate-and-cocoa-beans-on-a-table.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?shokolad_75percent",
+        "https://source.unsplash.com/800x600/?kakao_75"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Konfet (Karamel) 200g",
+      "description": "Yumshoq karamel konfetlari. Oddiy mahsulot kategoriyasi.",
+      "price": 12000,
+      "discountPercentage": 10.0,
+      "rating": 4.2,
+      "stock": 550,
+      "categorySlug": "shirinliklar",
+      "thumbnail": "https://basket-23.wbbasket.ru/vol4020/part402083/402083041/images/c516x688/1.webp",
+      "images": [
+        "https://source.unsplash.com/800x600/?konfet_200g",
+        "https://source.unsplash.com/800x600/?yumshoq_karamel"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Chipslar (Piyozli) Katta Paketi",
+      "description": "Katta hajmli piyoz va qaymoq ta'mli chips. Laziness sinovi.",
+      "price": 11000,
+      "discountPercentage": 0,
+      "rating": 3.8,
+      "stock": 400,
+      "categorySlug": "snacklar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuL8KFoH_mqfk9BScwytJznT_d2j_2jcm6zw&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?chips_katta_paket",
+        "https://source.unsplash.com/800x600/?qaymoq_chips"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Popkorn (Tuzli) 100g",
+      "description": "Kinoga mos tuzli popkorn. Ma'lumotlarni tez filtratsiya qilish.",
+      "price": 5000,
+      "discountPercentage": 0,
+      "rating": 4.1,
+      "stock": 700,
+      "categorySlug": "snacklar",
+      "thumbnail": "https://www.sharmispassions.com/wp-content/uploads/2022/07/popcorn-recipe1.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?popkorn_100g",
+        "https://source.unsplash.com/800x600/?popkorn_kinoga"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Pizza (Kichik) Margherita",
+      "description": "Bir kishilik kichik Margherita pizza. Tez ovqatlanish.",
+      "price": 45000,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 150,
+      "categorySlug": "tayyor-ovqatlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOu966OtyyOj-T02fw8WFGOUkO_z3-VT9Fjg&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?kichik_pizza",
+        "https://source.unsplash.com/800x600/?pizza_tayyor"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Xot-Dog (Klassik) - Yashil",
+      "description": "Klassik xot-dog, standart komponent hisoblanadi.",
+      "price": 18000,
+      "discountPercentage": 0,
+      "rating": 4.0,
+      "stock": 250,
+      "categorySlug": "tayyor-ovqatlar",
+      "thumbnail": "https://img.freepik.com/free-photo/tasty-fast-food-hot-dog-with-cheese_23-2148668461.jpg?semt=ais_hybrid&w=740&q=80",
+      "images": [
+        "https://source.unsplash.com/800x600/?klassik_xotdog",
+        "https://source.unsplash.com/800x600/?xotdog_yashil"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Gamburger (Double Cheese)",
+      "description": "Ikki qavat pishloqli gamburger. Yuqori render tezligi talab etiladi.",
+      "price": 25000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 300,
+      "categorySlug": "tayyor-ovqatlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Fbeey5FaYOAwWm6WZt2CPhM57Yrdkds1VQ&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?ikki_pishloq_burger",
+        "https://source.unsplash.com/800x600/?gamburger_tayyor"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Coca Cola (1.5L) - Muzlatilgan",
+      "description": "Yozgi kunlar uchun tetiklantiruvchi ichimlik. Lazy Loading testi.",
+      "price": 10000,
+      "discountPercentage": 0,
+      "rating": 4.4,
+      "stock": 90,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdI6XdHOqZ83_7Pri9GxoNU9C06aHuoFMDA&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?coca_cola_muzlatilgan",
+        "https://source.unsplash.com/800x600/?coca_cola_shisha"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Pepsi (1L) - Sovuq",
+      "description": "1 litrli shisha idishdagi Pepsi. Shartli renderlash sinovi.",
+      "price": 8000,
+      "discountPercentage": 10.0,
+      "rating": 4.3,
+      "stock": 150,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://images.uzum.uz/d3fsoc3q345ij963ii90/original.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?sovuq_pepsi",
+        "https://source.unsplash.com/800x600/?pepsi_shisha"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Fanta (0.5L) - Apelsin",
+      "description": "Apelsin ta'mli Fanta. Oddiy JSX komponentlari.",
+      "price": 5000,
+      "discountPercentage": 0,
+      "rating": 4.2,
+      "stock": 200,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxgVLoXU-Eslm2UvdvVbylaaD20Mc95ecktQ&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?fanta_apelsin",
+        "https://source.unsplash.com/800x600/?apelsin_fanta"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Mineral Suv (Gazsiz) 1L",
+      "description": "Tarkibida minerallar yuqori bo'lgan gazsiz suv.",
+      "price": 4500,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 700,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://digitalcontent.api.tesco.com/v2/media/ghs/23c8d725-a87a-4c42-83f3-91ed9e9eed54/6d6f77e4-8222-4549-ab52-9dd86089ea50_1150403118.jpeg?h=960&w=960",
+      "images": [
+        "https://source.unsplash.com/800x600/?gazsiz_suv_1l",
+        "https://source.unsplash.com/800x600/?ichimlik_suv"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Qahva (Donador) Premium",
+      "description": "100% Arabica donador qahva. SEO: donador qahva.",
+      "price": 85000,
+      "discountPercentage": 15.0,
+      "rating": 4.8,
+      "stock": 100,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://images.uzum.uz/d286i552lln1rmfjb870/original.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?arabica_qahva",
+        "https://source.unsplash.com/800x600/?qahva_premium"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Choy (Qora) Katta Paket",
+      "description": "Asosiy qora choy. Katta miqdordagi ma'lumotni simulyatsiya qilish.",
+      "price": 22000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 400,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq25lMXsZdropBpMPqpSjsoM8zg0BctMvUHg&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?choy_katta_paket",
+        "https://source.unsplash.com/800x600/?asosiy_qora_choy"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Choy (Yashil) Bargli",
+      "description": "Yuqori sifatli yashil bargli choy.",
+      "price": 35000,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 250,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://images.uzum.uz/cuukcjui4n36ls3rj6t0/original.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?bargli_choy",
+        "https://source.unsplash.com/800x600/?yuqori_sifatli_choy"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Asal (Tog') 500g",
+      "description": "Tog' o'simliklaridan olingan tabiiy asal. Memoization testi.",
+      "price": 70000,
+      "discountPercentage": 0,
+      "rating": 5.0,
+      "stock": 180,
+      "categorySlug": "shirinliklar",
+      "thumbnail": "https://images.uzum.uz/d17m4q0n274lpu39kfn0/original.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?asal_500g",
+        "https://source.unsplash.com/800x600/?tabiiy_asal"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Shakar (Qand) 1kg",
+      "description": "Standart shakar, osonlikcha filtrlash mumkin.",
+      "price": 10000,
+      "discountPercentage": 0,
+      "rating": 4.0,
+      "stock": 800,
+      "categorySlug": "shirinliklar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPaTt2buIO3tTCXn3HGL3WObpD70soaQK5ug&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?qand_shakar_1kg",
+        "https://source.unsplash.com/800x600/?shakar_kristal"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "O'simlik Yog'i (1L)",
+      "description": "Birinchi navli kungaboqar yog'i. Massiv ma'lumotlar.",
+      "price": 18000,
+      "discountPercentage": 5.0,
+      "rating": 4.3,
+      "stock": 500,
+      "categorySlug": "yog'lar",
+      "thumbnail": "https://img01.flagma.uz/photo/podsolnechnoe-maslo-2069045_medium.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?kungaboqar_yog_i",
+        "https://source.unsplash.com/800x600/?o_simlik_yog_i_1l"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Zaytun Yog'i (Extra Virgin)",
+      "description": "Eng yaxshi zaytun yog'i, salatlar uchun.",
+      "price": 65000,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 200,
+      "categorySlug": "yog'lar",
+      "thumbnail": "https://img01.flagma.uz/photo/olivkovoe-maslo-kahraman-extra-virgin-olive-oil-1953819_big.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?extra_virgin_olive_oil",
+        "https://source.unsplash.com/800x600/?zaytun_yog_i_premium"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Sut (2.5%) 1L",
+      "description": "2.5% yog'li klassik sut. Tez yuklash testi.",
+      "price": 8500,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 600,
+      "categorySlug": "sut-mahsulotlari",
+      "thumbnail": "https://devel.prom.uz/upload/product_logos/f9/56/f956c77a400ee542774a0e76ca937823.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?klassik_sut",
+        "https://source.unsplash.com/800x600/?sut_1l"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Qatiq (Tabiiy) 500g",
+      "description": "Uy usulida tayyorlangan tabiiy qatiq.",
+      "price": 7000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 450,
+      "categorySlug": "sut-mahsulotlari",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwgvqffUBVNopHKFaxhPSMaOepmq47lPqEhA&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?tabiiy_qatiq_500g",
+        "https://source.unsplash.com/800x600/?uy_usuli_qatiq"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Smetana (Qaymoq) 35%",
+      "description": "35% yog'li smetana. Interaktivlik sinovi.",
+      "price": 14000,
+      "discountPercentage": 5.0,
+      "rating": 4.8,
+      "stock": 300,
+      "categorySlug": "sut-mahsulotlari",
+      "thumbnail": "https://www.prom.uz/_ipx/f_webp/https://devel.prom.uz/upload/product_logos/b7/52/b752df123d8eb907592bb9e919e56039.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?qaymoq_20_foiz",
+        "https://source.unsplash.com/800x600/?smetana_yog_li"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Pishloq (Golland) 400g",
+      "description": "Golland usulidagi qattiq pishloq.",
+      "price": 45000,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 150,
+      "categorySlug": "sut-mahsulotlari",
+      "thumbnail": "https://aniq.uz/photos/news/x4UWAtPunbqVJgm.jpeg",
+      "images": [
+        "https://source.unsplash.com/800x600/?qattiq_pishloq",
+        "https://source.unsplash.com/800x600/?golland_pishloq_400g"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Pishloq (Mozzarella) 150g",
+      "description": "Salatlar va pizzalar uchun yumshoq Mozzarella.",
+      "price": 28000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 220,
+      "categorySlug": "sut-mahsulotlari",
+      "thumbnail": "https://yukber.uz/image/cache/catalog/product/YK1498/61079948_474720399941906_5172416401469603840_o-600x600.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?yumshoq_mozzarella",
+        "https://source.unsplash.com/800x600/?mozzarella_150g"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Tvorog (Suzma) 300g",
+      "description": "Uy sharoitida tayyorlangan tvorog. Memoizatsiya testi.",
+      "price": 16000,
+      "discountPercentage": 0,
+      "rating": 4.8,
+      "stock": 280,
+      "categorySlug": "sut-mahsulotlari",
+      "thumbnail": "https://devel.prom.uz/upload/products/fa/a2/faa2bb5c78820a0b8b1fdcf548ae2f8a.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?suzma_tvorog_300g",
+        "https://source.unsplash.com/800x600/?uy_tvorogi"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Kefir (1%) 1L",
+      "description": "Kam yog'li foydali kefir.",
+      "price": 9500,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 550,
+      "categorySlug": "sut-mahsulotlari",
+      "thumbnail": "https://s3.coolclever.tech/img/0000000090025177/1000/19298.webp",
+      "images": [
+        "https://source.unsplash.com/800x600/?foydali_kefir_1l",
+        "https://source.unsplash.com/800x600/?kefir_sut"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Xamirturushsiz Sut (Laktozasiz)",
+      "description": "Laktozaga sezgir foydalanuvchilar uchun sut.",
+      "price": 12000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 320,
+      "categorySlug": "sut-mahsulotlari",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1VjWXjvvkd0WXwEiYV1an8qa_J4sKHpGLiw&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?laktozasiz_ichimlik",
+        "https://source.unsplash.com/800x600/?sut_xamirturushsiz"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Sariyog' (82.5%) 200g",
+      "description": "82.5% yog'li yuqori sifatli sariyog'.",
+      "price": 24000,
+      "discountPercentage": 10.0,
+      "rating": 4.9,
+      "stock": 400,
+      "categorySlug": "sut-mahsulotlari",
+      "thumbnail": "https://piller.uz/storage/products/tg4Ei9TyktnRFr3lKx6zedJfdgz7k7xkkdEjBAz1.webp",
+      "images": [
+        "https://source.unsplash.com/800x600/?sariyog_200g",
+        "https://source.unsplash.com/800x600/?premium_sariyog"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Tuxum  10 dona",
+      "description": "Qishloq tovuqlarining tabiiy va yirik tuxumlari.",
+      "price": 18000,
+      "discountPercentage": 0,
+      "rating": 5.0,
+      "stock": 200,
+      "categorySlug": "sut-va-tuxum",
+      "thumbnail": "https://odam.uz/upload/media/entries/2020-01/15/2385-entry-1-1579107072.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?tuxum_10dona",
+        "https://source.unsplash.com/800x600/?tabiiy_tuxum"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Tovuq Go'shti (Son) 1kg",
+      "description": "Yumshoq tovuq son qismi. Lazy Loading uchun katta rasm.",
+      "price": 38000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 180,
+      "categorySlug": "go-sht-va-baliq",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6SNQ-G9lUWogBBaOmSpEZt965qUa69xGkTQ&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?tovuq_go_shti_1kg",
+        "https://source.unsplash.com/800x600/?yumshoq_son"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Mol Go'shti (Bel qismi) 1kg",
+      "description": "Eng yuqori navli mol go'shti (bel qismi).",
+      "price": 85000,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 100,
+      "categorySlug": "go-sht-va-baliq",
+      "thumbnail": "https://storage.kun.uz/source/1/35C5VN1fK_Ie_0fY4gg-Uiychxjs14fL.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?mol_go_shti_bel",
+        "https://source.unsplash.com/800x600/?premium_beef"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Qo'y Go'shti (Yog'siz) 1kg",
+      "description": "Kam yog'li yosh qo'y go'shti. SEO: qo'y go'shti.",
+      "price": 75000,
+      "discountPercentage": 10.0,
+      "rating": 4.7,
+      "stock": 130,
+      "categorySlug": "go-sht-va-baliq",
+      "thumbnail": "https://korzinka.uz/_ipx/f_webp,q_80/https://catalog.korzinka.uz/storage/permanent_promotions/imeni_2_62a9d60909cc8.png",
+      "images": [
+        "https://source.unsplash.com/800x600/?qo_y_go_shti_1kg",
+        "https://source.unsplash.com/800x600/?yosh_qo_y"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Baliq (Forel) Tozalangan",
+      "description": "Muzlatilgan, tozalangan forel balig'i. SSR/SSG simulyatsiyasi.",
+      "price": 95000,
+      "discountPercentage": 0,
+      "rating": 4.8,
+      "stock": 70,
+      "categorySlug": "go-sht-va-baliq",
+      "thumbnail": "https://www.prom.uz/_ipx/f_webp/https://devel.prom.uz/upload/reduced/product_logos/67/18/6718881614d73dc7924fa7f4106d652f.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?tozalangan_forel",
+        "https://source.unsplash.com/800x600/?muzlatilgan_baliq"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Kolbasa (Dudlangan) 500g",
+      "description": "Yuqori sifatli dudlangan kolbasa. Virtualizatsiya sinovi.",
+      "price": 40000,
+      "discountPercentage": 10.0,
+      "rating": 4.5,
+      "stock": 300,
+      "categorySlug": "go-sht-mahsulotlari",
+      "thumbnail": "https://api.darakchi.uz/media/news_preview/2024/07/30/muKK90JquOyN_utXDGEvaMvUNicg1pS2-xl_L3h4CDQ_9HOryO2.medium.webp",
+      "images": [
+        "https://source.unsplash.com/800x600/?kolbasa_500g",
+        "https://source.unsplash.com/800x600/?sifatli_kolbasa"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Sosiska (Mini) 300g",
+      "description": "Bolalar uchun kichik sosiskalar. Kategoriya filtri.",
+      "price": 25000,
+      "discountPercentage": 5.0,
+      "rating": 4.3,
+      "stock": 400,
+      "categorySlug": "go-sht-mahsulotlari",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nKSM-q2VIHUyM66LPv8L83W3YE6d99Is9A&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?sosiska_300g",
+        "https://source.unsplash.com/800x600/?bolalar_sosiskasi"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Konservalangan Go'sht (Mol) 400g",
+      "description": "Uzoq saqlanadigan konserva go'sht.",
+      "price": 22000,
+      "discountPercentage": 0,
+      "rating": 4.0,
+      "stock": 500,
+      "categorySlug": "konservalar",
+      "thumbnail": "https://images.uzum.uz/d0pvvqr3uvph509vrvig/t_product_540_high.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?mol_konserva_400g",
+        "https://source.unsplash.com/800x600/?konservalangan_mol"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Konservalangan Baliq (Sayra) 200g",
+      "description": "Sayra baliq go'shtini konservalangan turi. Barcha yoshdagi insonlar uchun judayam foydali",
+      "price": 15000,
+      "discountPercentage": 0,
+      "rating": 4.2,
+      "stock": 600,
+      "categorySlug": "konservalar",
+      "thumbnail": "https://files.glotr.uz/company/000/012/826/products/2023/01/11/2023-01-11-20-41-26-196484-ee9a4c8060420f576db0fc8c5f325b70.webp?_=ozb9y",
+      "images": [
+        "https://source.unsplash.com/800x600/?sayra_konserva_200g",
+        "https://source.unsplash.com/800x600/?baliq_konservasi"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Guruch (Lazer) 1kg",
+      "description": "Palov uchun Lazer navli guruch.",
+      "price": 16000,
+      "discountPercentage": 5.0,
+      "rating": 4.8,
+      "stock": 700,
+      "categorySlug": "donli-mahsulotlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSlo3dJYuE-5DREfhC90fTOruR6C28aAsVw&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?lazer_guruch_1kg",
+        "https://source.unsplash.com/800x600/?palov_guruch"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Makaron (Spagetti) 500g",
+      "description": "Klassik Spagetti makaronlari. Performance sinovi.",
+      "price": 12000,
+      "discountPercentage": 0,
+      "rating": 4.4,
+      "stock": 800,
+      "categorySlug": "donli-mahsulotlar",
+      "thumbnail": "https://basket-04.wbbasket.ru/vol433/part43395/43395413/images/big/1.webp",
+      "images": [
+        "https://source.unsplash.com/800x600/?makaron_500g",
+        "https://source.unsplash.com/800x600/?klassik_spagetti"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Grechka (Qora) 800g",
+      "description": "Yuqori sifatli qora grechka. Lazy loading.",
+      "price": 14000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 650,
+      "categorySlug": "donli-mahsulotlar",
+      "thumbnail": "https://static1.biotus.ua/media/optimization/catalog/product/1600/p/h/photo_2020-04-23_16-24-07_2__jpg.webp",
+      "images": [
+        "https://source.unsplash.com/800x600/?grechka_800g",
+        "https://source.unsplash.com/800x600/?qora_buckwheat"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Un (Oliy Nav) 2kg",
+      "description": "Oliy navli bug'doy uni. SEO kalit so'zi.",
+      "price": 20000,
+      "discountPercentage": 10.0,
+      "rating": 4.9,
+      "stock": 450,
+      "categorySlug": "donli-mahsulotlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUja1eLnw6FpVHJrDnox15OVi6ed4s-OVr-Q&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?oliy_nav_un",
+        "https://source.unsplash.com/800x600/?un_2kg"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Tuz (Yodlangan) 1kg",
+      "description": "Yod bilan boyitilgan osh tuzi.",
+      "price": 1000,
+      "discountPercentage": 0,
+      "rating": 4.0,
+      "stock": 1000,
+      "categorySlug": "ziravorlar",
+      "thumbnail": "https://files.glotr.uz/company/000/028/213/products/2023/07/17/2023-07-17-14-13-17-470113-c7ae60fc34ffa8492bd443d08d3bc48c.webp?_=ozb9y",
+      "images": [
+        "https://source.unsplash.com/800x600/?osh_tuzi_1kg",
+        "https://source.unsplash.com/800x600/?tuz_yod"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Murch (Qora) Donador",
+      "description": "Qora murch donalari. Memoization testi.",
+      "price": 18000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 300,
+      "categorySlug": "ziravorlar",
+      "thumbnail": "https://images.uzum.uz/cs6vkku9ucrd5cir4p2g/original.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?murch_donasi",
+        "https://source.unsplash.com/800x600/?qora_murch"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Lavr Yaprog'i (Quritilgan)",
+      "description": "Birinchi sifatli quritilgan lavr yaprog'i.",
+      "price": 5000,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 450,
+      "categorySlug": "ziravorlar",
+      "thumbnail": "https://files.glotr.uz/company/000/012/826/products/2024/10/15/2024-10-15-09-33-29-623672-eabf7e538c5dd765fb75e66ea12b18f4.webp?_=ozauc",
+      "images": [
+        "https://source.unsplash.com/800x600/?quritilgan_lavr",
+        "https://source.unsplash.com/800x600/?ziravor_lavr"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Qizil Olma (Shirin)",
+      "description": "Qizil, shirin va ser-suv olma.",
+      "price": 10000,
+      "discountPercentage": 5.0,
+      "rating": 4.8,
+      "stock": 600,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ868djAR5mIlAFnnjF---4paarCg48aQTr-g&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?shirin_qizil_olma",
+        "https://source.unsplash.com/800x600/?olma_qizil"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Yashil Olma (Nordon)",
+      "description": "Nordon ta'mli yashil olma.",
+      "price": 9000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 550,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://assets.unileversolutions.com/v1/136047056.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?nordon_yashil_olma",
+        "https://source.unsplash.com/800x600/?olma_yashil"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Banan (Ekvador) 1kg",
+      "description": "Ekvadordan olib kelingan yirik bananlar.",
+      "price": 16000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 700,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://n1s1.hsmedia.ru/b4/24/35/b42435eff89d501422dfa9129f5cca46/1200x800_0xac120003_2823473111615827961.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?yirik_banan",
+        "https://source.unsplash.com/800x600/?banan_1kg"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Kivi (Yashil) 500g",
+      "description": "Vitamin C ga boy kivi. Lazy loading testi.",
+      "price": 14000,
+      "discountPercentage": 10.0,
+      "rating": 4.5,
+      "stock": 400,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGpqp5k9kuQPaIwZndudB3F7VDVV8nbyQYA&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?kivi_500g",
+        "https://source.unsplash.com/800x600/?vitamin_kivi"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Ananas (Tropik, Shirin)",
+      "description": "Egzotik va shirin meva. Rasmlarni optimallashtirish uchun ishlatiladi.",
+      "price": 25000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 50,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgJoHOMzRC58m8lTBk2TJe6SeQ9tMHkLE48Q&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?shirin_ananas",
+        "https://source.unsplash.com/800x600/?egzotik_ananas"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Anjir (Quritilgan) 250g",
+      "description": "Quritilgan shirin anjir. Kategoriya filtri.",
+      "price": 30000,
+      "discountPercentage": 0,
+      "rating": 4.8,
+      "stock": 180,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://cp.platina.uz/media/CACHE/images/fig.064d57622c08.webp",
+      "images": [
+        "https://source.unsplash.com/800x600/?anjir_250g",
+        "https://source.unsplash.com/800x600/?shirin_anjir"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Shaftoli (Sariq) 1kg",
+      "description": "Sariq va xushbo'y shaftoli.",
+      "price": 15000,
+      "discountPercentage": 5.0,
+      "rating": 4.7,
+      "stock": 400,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfpPltT0NE57953tt_EfvFh2tcnIqjCbirMg&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?xushboy_shaftoli",
+        "https://source.unsplash.com/800x600/?shaftoli_1kg"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "O'rik (Yozgi) 1kg",
+      "description": "Yozda pishgan shirin o'rik. SEO: o'rik, yozgi.",
+      "price": 12000,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 350,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEetX2ZuX2rTU3sDfXNlyJcqVpNqHfJtD7bg&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?shirin_o_rik",
+        "https://source.unsplash.com/800x600/?o_rik_1kg"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Xurmo (Quritilgan) 500g",
+      "description": "Foydali va quritilgan xurmo. Lazy loading.",
+      "price": 28000,
+      "discountPercentage": 10.0,
+      "rating": 4.9,
+      "stock": 200,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXHjHdQt04VdQIBll021Rhky7oppe4Aqqr2Q&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?xurmo_500g",
+        "https://source.unsplash.com/800x600/?foydali_xurmo"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Uzum (Qora) Husayni",
+      "description": "Qora Husayni uzum. Virtualizatsiya sinovi.",
+      "price": 18000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 300,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://api.cabinet.smart-market.uz/uploads/images/8a8b8002de910bb51929423b",
+      "images": [
+        "https://source.unsplash.com/800x600/?husayni_uzum",
+        "https://source.unsplash.com/800x600/?uzum_qora"
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Uzum (Oq) Katta",
+      "description": "Shirin, katta oq uzum.",
+      "price": 16000,
+      "discountPercentage": 5.0,
+      "rating": 4.7,
+      "stock": 350,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/250px-Table_grapes_on_white.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?katta_oq_uzum",
+        "https://source.unsplash.com/800x600/?uzum_shirin"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Qovun (Gurlan) 1 dona",
+      "description": "Gurlan navli xushbo'y qovun.",
+      "price": 35000,
+      "discountPercentage": 0,
+      "rating": 4.8,
+      "stock": 100,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://cdn.uza.uz/2024/09/09/12/27/ZMaqzAE7TWEytleXCY1QU8HdFIDLf695_front.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?gurlan_qovun",
+        "https://source.unsplash.com/800x600/?xushboy_qovun"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Tarvuz (Qizil) 1 dona",
+      "description": "Suvli va shirin qizil tarvuz. LCP sinovi.",
+      "price": 25000,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 150,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://dostavo4ka.uz/upload-file/2021/05/05/5919/932eb989-adad-4623-b913-c58fdb892aa8.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?suvli_tarvuz",
+        "https://source.unsplash.com/800x600/?tarvuz_shirin"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Pomidor (Qizil) 1kg",
+      "description": "Yozgi qizil pomidor. Oddiy ma'lumot to'plami.",
+      "price": 10000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 500,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://m.dom-eda.com/uploads/images/catalog/item/c6ebcf64ba/e87b941b85_500.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?yozgi_pomidor_1kg",
+        "https://source.unsplash.com/800x600/?pomidor_sabzavot"
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Bodring (Qishloq) 1kg",
+      "description": "Qishloq usulida yetishtirilgan bodring.",
+      "price": 8000,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 600,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://api.cabinet.smart-market.uz/uploads/images/ff80818134096c3939f21fc9",
+      "images": [
+        "https://source.unsplash.com/800x600/?bodring_1kg",
+        "https://source.unsplash.com/800x600/?tabiiy_bodring"
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Kartoshka (Qizil) 1kg",
+      "description": "Qizil kartoshka. SEO: kartoshka, sabzavot.",
+      "price": 6000,
+      "discountPercentage": 0,
+      "rating": 4.3,
+      "stock": 900,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://dostavo4ka.uz/upload-file/2021/05/05/4630/750x750-b39eba0d-8ea2-4ae3-aa54-4ef7006fb53f.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?kartoshka_1kg",
+        "https://source.unsplash.com/800x600/?qizil_sabzavot"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Piyoz (Oq) 1kg",
+      "description": "Oq piyoz, salatlar uchun. Katta massiv sinovi.",
+      "price": 4000,
+      "discountPercentage": 0,
+      "rating": 4.1,
+      "stock": 1000,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://healthy-food-near-me.com/wp-content/uploads/2022/09/white-onion-how-it-differs-from-ordinary-onion-when-to-plant-useful-properties-composition-1.webp",
+      "images": [
+        "https://source.unsplash.com/800x600/?piyoz_1kg",
+        "https://source.unsplash.com/800x600/?oq_sabzavot"
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Sabzi (Yirik) 1kg",
+      "description": "Yirik, shirin sabzi. Lazy Loading.",
+      "price": 3000,
+      "discountPercentage": 0,
+      "rating": 4.4,
+      "stock": 850,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://caravan-info.uz/netcat_files/generated/17/27/1000x500/6062/cf10b2b8ca679d5ef79776490c2a18f3.jpg?crop=0%3A0%3A0%3A0&hash=240a529b6b2cb45213eeb061393802ed&resize_mode=1&wm_m=0&v=20250706091638",
+      "images": [
+        "https://source.unsplash.com/800x600/?shirin_sabzi_1kg",
+        "https://source.unsplash.com/800x600/?sabzi_yirik"
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Qovoq (Yozgi) 1 dona",
+      "description": "Yozgi pishgan qovoq. Turli o'lchamdagi rasmlar.",
+      "price": 12000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 150,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGhXjWEN82yYpTFmlZMEgreqj4CZc_nwA3Gg&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?qovoq_yozgi",
+        "https://source.unsplash.com/800x600/?qovoq_sabzavot"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Sarimsoq (Chinnigul) 200g",
+      "description": "Tibbiyotda ham ishlatiladigan sarimsoq.",
+      "price": 9000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 400,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzy3tzJLPZA23PhvBt1dQivEBWjy4kXk-9Q&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?chinnigul_sarimsoq",
+        "https://source.unsplash.com/800x600/?sarimsoq_200g"
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Brokolli (Muzlatilgan) 400g",
+      "description": "Muzlatilgan brokolli. Vazn bo'yicha filtratsiya.",
+      "price": 20000,
+      "discountPercentage": 10.0,
+      "rating": 4.5,
+      "stock": 300,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://pasarrakyatbali.com/cdn/shop/products/say-016_6d6849ab-8389-47a8-bdac-d5c7f10719a3_1200x1200.png?v=1595727414",
+      "images": [
+        "https://source.unsplash.com/800x600/?brokolli_400g",
+        "https://source.unsplash.com/800x600/?brokolli_sabzavot"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Karom (Oq) 1 dona",
+      "description": "Katta oq karom. Oddiy komponent.",
+      "price": 7000,
+      "discountPercentage": 0,
+      "rating": 4.2,
+      "stock": 500,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://api.cabinet.smart-market.uz/uploads/images/ff80818149493c5b8936f237",
+      "images": [
+        "https://source.unsplash.com/800x600/?katta_oq_karom",
+        "https://source.unsplash.com/800x600/?karom_sabzavot"
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Baqlajon (Uzun) 1kg",
+      "description": "Uzun, yirik baqlajon. Virtualizatsiya sinovi.",
+      "price": 14000,
+      "discountPercentage": 5.0,
+      "rating": 4.4,
+      "stock": 350,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvBRKuShQlz-eg-CkHE6g4e7Et2eCV7UFEQ&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?baqlajon_1kg",
+        "https://source.unsplash.com/800x600/?yirik_baqlajon"
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Rediska (Qizil) 500g",
+      "description": "Kechki bahor redisgasi. Raqamli sortlash.",
+      "price": 8000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 400,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT23L4uhRWNi8XjQrhyaD4IaJP3s3cIWIYzPg&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?rediska_500g",
+        "https://source.unsplash.com/800x600/?bahor_rediska"
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Bul'g'or Qalampiri (Turli Rang)",
+      "description": "Yashil, sariq, qizil rangli qalampirlar.",
+      "price": 18000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 250,
+      "categorySlug": "sabzavotlar",
+      "thumbnail": "https://storage.kun.uz/source/6/OO-Xvvoi73q9VUmiOSxcE3bbNbgRd0MF.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?turli_rang_qalampir",
+        "https://source.unsplash.com/800x600/?qalampir_sabzavot"
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Limon (Import) 1kg",
+      "description": "Katta va suvli limonlar. SEO: limon, sitrus.",
+      "price": 20000,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 350,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzzBXCXTwOPuBNRYKrlf6OjxfXWT4qiQ4Zrg&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?suvli_limon",
+        "https://source.unsplash.com/800x600/?limon_1kg"
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Behi (Katta) 1 dona",
+      "description": "Xushbo'y behi. Oddiy ma'lumot hujjati.",
+      "price": 15000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 100,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://qvz.uz/wp-content/uploads/2020/02/aa71a18f538757b56378411b33728133.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?xushboy_behi",
+        "https://source.unsplash.com/800x600/?behi_meva"
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Qulupnay (Morrow) 500g",
+      "description": "Morrow navli shirin qulupnay. Lazy loading.",
+      "price": 35000,
+      "discountPercentage": 15.0,
+      "rating": 4.9,
+      "stock": 200,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://storage.kun.uz/source/1/USABPRpajy_d89HwNvIIaEPi9OdY5mc1.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?shirin_qulupnay_500g",
+        "https://source.unsplash.com/800x600/?morrow_qulupnay"
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Malina (Toza) 300g",
+      "description": "Yirik, toza malina. Interaktiv komponent.",
+      "price": 40000,
+      "discountPercentage": 0,
+      "rating": 4.8,
+      "stock": 150,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ZOkBqqxc0CBZaNQI3yYvau4E5n6wIvuaZQ&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?malina_300g",
+        "https://source.unsplash.com/800x600/?yirik_malina"
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Smorodina (Qora) 500g",
+      "description": "Vitaminlarga boy qora smorodina. Memozatsiya sinovi.",
+      "price": 28000,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 180,
+      "categorySlug": "mevalar",
+      "thumbnail": "https://back.avitsenna.uz/uploads/2016/08/qora-smorodina.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?smorodina_500g",
+        "https://source.unsplash.com/800x600/?qora_meva"
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Qora Sho'rva (Tayyor Konserva)",
+      "description": "Tez tayyorlanadigan qora sho'rva konserva. LCP sinovi.",
+      "price": 25000,
+      "discountPercentage": 0,
+      "rating": 4.0,
+      "stock": 300,
+      "categorySlug": "tayyor-ovqatlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EmtR6q9CYp4qS6pocFr2lxDWOwrkFJvITg&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?qora_sho_rva_konserva",
+        "https://source.unsplash.com/800x600/?tayyor_sho_rva"
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Lag'mon (Qo'lda) 500g",
+      "description": "Uy usulida qo'lda kesilgan lag'mon xamiri.",
+      "price": 18000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 450,
+      "categorySlug": "donli-mahsulotlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-yhFXXrSEx6MgQwXh6AtY1UXoARX3CqJ6A&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?lag_mon_xamiri",
+        "https://source.unsplash.com/800x600/?qo_lda_lag_mon"
+      ]
+    },
+    {
+      "id": 83,
+      "title": "Manti (Go'shtli) 10 dona",
+      "description": "Muzlatilgan, go'shtli manti.",
+      "price": 32000,
+      "discountPercentage": 5.0,
+      "rating": 4.5,
+      "stock": 200,
+      "categorySlug": "yarim-tayyor",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXkBAL0arQo0OxRJE9K5rV4g8BMo5ZWGrWJw&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?go_shtli_manti_10",
+        "https://source.unsplash.com/800x600/?muzlatilgan_manti"
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Chuchvara (Qo'lda) 500g",
+      "description": "Muzlatilgan, qo'lda tayyorlangan chuchvara.",
+      "price": 28000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 250,
+      "categorySlug": "yarim-tayyor",
+      "thumbnail": "https://r.8b.io/226253/images/background1-h_kkvu1qck.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?qo_lda_chuchvara_500g",
+        "https://source.unsplash.com/800x600/?muzlatilgan_chuchvara"
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Osh (Palov) - Tayyor",
+      "description": "O'zbek oshxonasining shoh taomi, oldindan tayyorlangan. ",
+      "price": 30000,
+      "discountPercentage": 0,
+      "rating": 4.8,
+      "stock": 30,
+      "categorySlug": "tayyor-ovqatlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjIrsF5-YwvkzRFiLTtCzFrWnwdA_QNIclg&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?tayyor_osh",
+        "https://source.unsplash.com/800x600/?palov_uzbek"
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Somsa (Go'shtli) ",
+      "description": "Tandir somsa (mol go'shti). Virtualizatsiya sinovi.",
+      "price": 10000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 100,
+      "categorySlug": "tayyor-ovqatlar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Ie-JpMEhbJ_snmq_PsMHdnLIxtYGjEtn0g&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?go_shtli_somsa",
+        "https://source.unsplash.com/800x600/?tandir_somsa"
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Sho'rva (Tovuq) - Tayyor",
+      "description": "Tovuq go'shtli, qaynoq sho'rva. Oddiy mahsulot.",
+      "price": 22000,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 80,
+      "categorySlug": "tayyor-ovqatlar",
+      "thumbnail": "https://zira.uz/wp-content/uploads/2019/10/kurinnyi---sup-s-kukuruzoi---2.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?tayyor_sho_rva_tovuq",
+        "https://source.unsplash.com/800x600/?qaynoq_sho_rva"
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Kabob (Mol) 2 dona",
+      "description": "Mol go'shtidan yumshoq kabob. Interaktiv komponent.",
+      "price": 40000,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 70,
+      "categorySlug": "tayyor-ovqatlar",
+      "thumbnail": "https://silkroadrecipes.com/wp-content/uploads/2020/07/Kabab-Koobideh-Beef-and-Lamb-Kabobs-square.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?kabob_2_dona",
+        "https://source.unsplash.com/800x600/?mol_go_shtli_kabob"
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Salat (Sezar) - Tayyor",
+      "description": "Klassik Sezar salati. Xotirjamlikni oshiruvchi mahsulot.",
+      "price": 28000,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 150,
+      "categorySlug": "tayyor-ovqatlar",
+      "thumbnail": "https://zira.uz/wp-content/uploads/2019/03/salat-cezar-4.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?tayyor_sezar_salati",
+        "https://source.unsplash.com/800x600/?klassik_sezar"
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Tiramisu (Original)",
+      "description": "Italiya usulida tayyorlangan Tiramisu. ",
+      "price": 35000,
+      "discountPercentage": 0,
+      "rating": 4.8,
+      "stock": 60,
+      "categorySlug": "shirinliklar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSL3tcB4MBsd6mzFuQdhO9xnSseYSwEw5nOA&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?original_tiramisu",
+        "https://source.unsplash.com/800x600/?tiramisu_shirinlik"
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Chizkeyk (New York) 1 dona",
+      "description": "Qaymoqli, klassik New York chizkeyk.",
+      "price": 30000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 80,
+      "categorySlug": "shirinliklar",
+      "thumbnail": "https://safiabakery.uz/uploads/products/362_1715177325.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?chizkeyk_qaymoqli",
+        "https://source.unsplash.com/800x600/?klassik_chizkeyk"
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Medovik (Asalli) 1 dona",
+      "description": "Ko'p qavatli yumshoq Medovik. SEO: medovik, asal.",
+      "price": 28000,
+      "discountPercentage": 5.0,
+      "rating": 4.9,
+      "stock": 90,
+      "categorySlug": "shirinliklar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpeCViX43rh1F8jtOAXkzg96saV8uSyHQm0w&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?asalli_medovik",
+        "https://source.unsplash.com/800x600/?yumshoq_medovik"
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Kruasan (Shokoladli) 1 dona",
+      "description": "Shokoladli yumshoq kruasan.",
+      "price": 10000,
+      "discountPercentage": 0,
+      "rating": 4.4,
+      "stock": 150,
+      "categorySlug": "shirinliklar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47Qa9UlccInZNuFJYg4sZlJCHmn3My8dtjA&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?kruasan_shokolad",
+        "https://source.unsplash.com/800x600/?yumshoq_kruasan"
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Kofe (Kapuchino) - Tayyor",
+      "description": "Tayyor Kapuchino ichimligi. Memozatsiya testi.",
+      "price": 18000,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 100,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://ir.ozone.ru/s3/multimedia-1-c/c1000/7326548508.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?tayyor_kapuchino",
+        "https://source.unsplash.com/800x600/?kofe_ichimligi"
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Kofe (Latte) - Tayyor",
+      "description": "Tayyor Latte. Kategoriya filtri.",
+      "price": 18000,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 100,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://ir.ozone.ru/s3/multimedia-x/c1000/6578193153.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?tayyor_latte",
+        "https://source.unsplash.com/800x600/?sutli_kofe"
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Kofe (Americano) ",
+      "description": "Tayyor Americano. Virtualizatsiya sinovi.",
+      "price": 15000,
+      "discountPercentage": 0,
+      "rating": 4.3,
+      "stock": 120,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://ir.ozone.ru/s3/multimedia-9/w500/6600824793.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?tayyor_americano",
+        "https://source.unsplash.com/800x600/?qora_kofe"
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Limonad (Gazli) 1L",
+      "description": "Tabiiy limon sharbatidan gazlangan limonad.",
+      "price": 12000,
+      "discountPercentage": 5.0,
+      "rating": 4.2,
+      "stock": 200,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://olcha.uz/image/original/products/2023-01-17/gazirovannyy-napitok-chernogolovka-15-l-limonad-190875-0.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?limonad_1l",
+        "https://source.unsplash.com/800x600/?tabiiy_limonad"
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Kakao (Issiq) 300g",
+      "description": "Qish uchun issiq kakao ichimligi. Lazy Loading.",
+      "price": 20000,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 150,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://m.media-amazon.com/images/I/81wgcZQOSuL._AC_SL1500_.jpg",
+      "images": [
+        "https://source.unsplash.com/800x600/?kakao_300g",
+        "https://source.unsplash.com/800x600/?shirin_kakao"
+      ]
+    },
+    {
+      "id": 99,
+      "title": "Choy (Bergamotli) Katta Paket",
+      "description": "Bergamot qo'shilgan xushbo'y choy.",
+      "price": 28000,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 300,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6q_VPmDUcm0FvSraCkEqzliVGWcI9ufjfQ&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?xushboy_choy",
+        "https://source.unsplash.com/800x600/?choy_bergamot"
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Energetik Ichimlik (Power Max) 0.5L",
+      "description": "Yuqori energiya beruvchi ichimlik. ",
+      "price": 15000,
+      "discountPercentage": 5.0,
+      "rating": 4.1,
+      "stock": 110,
+      "categorySlug": "ichimliklar",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoAYocOTW24YSeRlHnsfyN9axv9TDo-KuFwg&s",
+      "images": [
+        "https://source.unsplash.com/800x600/?power_max_ichimlik",
+        "https://source.unsplash.com/800x600/?yuqori_energetik"
+      ]
+    }
+  ],
+  "total": 100,
+  "skip": 0,
+  "limit": 100
+}

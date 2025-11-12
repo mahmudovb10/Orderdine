@@ -1,14 +1,11 @@
-// Import the functions you need from the SDKs you need
+// firebase/config.js
+
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
+import { getAnalytics, isSupported } from "firebase/analytics";
 
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
-
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+// Config
 const firebaseConfig = {
-  // NEXT_PUBLIC_ prefiksi bilan belgilangan o'zgaruvchilar Server va Kliyentda mavjud
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
   authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
   projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
@@ -17,7 +14,17 @@ const firebaseConfig = {
   appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
   measurementId: process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID,
 };
-// Initialize Firebase
 
+// Initialize
 const app = initializeApp(firebaseConfig);
-export const auth = getAuth(app);
+const auth = getAuth(app);
+
+// Analytics faqat browserda ishlaydi (Next.js SSRda emas)
+let analytics;
+if (typeof window !== "undefined") {
+  isSupported().then((ok) => {
+    if (ok) analytics = getAnalytics(app);
+  });
+}
+
+export { app, auth, analytics };

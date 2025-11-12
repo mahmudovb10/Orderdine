@@ -1,2 +1,8 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+.prodImage {
+  width: 25rem;
+  height: 15rem !important;
+  object-fit: cover;
+}

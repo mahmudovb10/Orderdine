@@ -1,7 +1,7 @@
 function ProductCard() {
   return (
     <div>
-      <h1>ProductCard</h1>
+      <h1>Clearance</h1>
     </div>
   );
 }

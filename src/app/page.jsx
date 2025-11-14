@@ -15,8 +15,11 @@ export default function Home() {
 
   return (
     <div>
-      <h1 className="text-3xl font-bold mb-6">Commerce</h1>
-
+      <h1 className="mainDesc">
+        Orderdine: Sifatli oziq-ovqat va ichimliklarni qulay onlayn buyurtma
+        qilish platformasi. <br />
+        Tez yetkazib berish va doimiy chegirmalar!
+      </h1>
       <div
         className="
         grid 
@@ -47,7 +50,7 @@ export default function Home() {
                 </p>
                 <div className="card-actions justify-end">
                   <button className="btn btn-primary" onClick={handleSubmit}>
-                    Sotib olish {prod.price} So'm
+                    Savatga solish
                   </button>
                 </div>
               </div>

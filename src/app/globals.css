@@ -27,6 +27,25 @@
   src: url("/fonts/alan-sans-v1-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+.container {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.mainDesc {
+  font-family: "Alan Sans";
+  font-weight: 700;
+  font-size: 1rem;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3rem;
+}
+
 .prodCard {
   margin-top: 3rem;
 }
@@ -98,4 +117,15 @@
   position: relative;
   top: -18rem;
   margin-top: 1rem;
+}
+
+.singleProdClearance {
+  margin-left: 45rem;
+  position: relative;
+  bottom: 17rem;
+}
+
+.basketBtn {
+  position: relative;
+  right: 1rem;
 }

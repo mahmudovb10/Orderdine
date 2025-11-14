@@ -44,6 +44,11 @@ function SingleProduct({ params }) {
       <h2 className="singleProdRate">Baho: {prod.rating}⭐</h2>
       <h2 className="singleProdStock">Qolgan: {prod.stock} dona</h2>
       <h2 className="singleProdCategory">Kategoriya: {prod.categorySlug}</h2>
+      <div>
+        <button className="btn btn-outline btn-primary singleProdClearance">
+          Rasmiylashtirish
+        </button>
+      </div>
     </div>
   );
 }

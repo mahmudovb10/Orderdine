@@ -2,6 +2,7 @@
 
 import React from "react";
 import { useFetch } from "@/lib/useFetch";
+import Link from "next/link";
 
 function SingleProduct({ params }) {
   // Get id
@@ -14,9 +15,6 @@ function SingleProduct({ params }) {
   // Get API
   const { data, isPending, error } = useFetch(`/api.json`);
   // Waiting procces
-  if (isPending) {
-    return <span className="loading loading-dots loading-xl"></span>;
-  }
   // Error procces
   if (error) {
     return <p>Xatolik yuz berdi + {error.message}</p>;
@@ -24,6 +22,9 @@ function SingleProduct({ params }) {
   // Finding a printed product
   const prod = data?.products?.find((p) => String(p.id) === String(id));
   // If the product is not available
+  if (isPending) {
+    return <span className="loading loading-dots loading-xl"></span>;
+  }
   if (!prod) {
     console.log("Mahsulot topilmadi. Data:", data);
     // If such a product is not available
@@ -46,9 +47,11 @@ function SingleProduct({ params }) {
       <h2 className="singleProdStock">Qolgan: {prod.stock} dona</h2>
       <h2 className="singleProdCategory">Kategoriya: {prod.categorySlug}</h2>
       <div>
-        <button className="btn btn-outline btn-primary singleProdClearance">
-          Rasmiylashtirish
-        </button>
+        <Link href={`/clearance/${prod.id}`}>
+          <button className="btn btn-outline btn-primary singleProdClearance">
+            Rasmiylashtirish
+          </button>
+        </Link>
       </div>
     </div>
   );

@@ -34,7 +34,7 @@ export default function RootLayout({ children }) {
                     <div className="flex-1">
                       <a className="btn btn-ghost text-xl">Orderdine</a>
                     </div>
-                    <div className="flex-none">
+                    <div className="flex-none z-10">
                       <div className="dropdown dropdown-end">
                         <div
                           tabIndex={0}

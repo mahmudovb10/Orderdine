@@ -25,7 +25,7 @@ export default function BasketPage() {
           </div>
         ))}
       </div>
-      <p className="text-lg font-bold mt-4">Jami: {cartTotal} so‘m</p>
+      <p className="text-lg font-bold mt-4">Jami: {cartTotal} som</p>
     </div>
   );
 }

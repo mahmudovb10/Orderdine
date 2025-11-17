@@ -51,6 +51,17 @@ export const GlobalContextProvider = ({ children }) => {
       }
     }
   };
+
+  useEffect(() => {
+    const savedCart = localStorage.getItem("cart");
+    if (savedCart) setCart(JSON.parse(savedCart));
+  }, []);
+
+  // --- 2. LocalStorage ga yozish ---
+  useEffect(() => {
+    localStorage.setItem("cart", JSON.stringify(cart));
+  }, [cart]);
+
   // product add basket
   const addCart = (product) => {
     setCart((prevItems) => {
@@ -122,6 +133,7 @@ export const GlobalContextProvider = ({ children }) => {
     logoutUser,
     deleteAndLogoutUser,
     cartCount,
+    cart,
     addCart,
     cartTotal,
     cartCount,

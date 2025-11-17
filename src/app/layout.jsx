@@ -7,7 +7,7 @@ import {
 } from "@/context/GlobalContext";
 import Link from "next/link";
 import "./globals.css";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
 
 export default function RootLayout({ children }) {

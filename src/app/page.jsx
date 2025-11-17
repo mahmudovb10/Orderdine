@@ -10,14 +10,10 @@ export default function Home() {
 
   const { addCart } = useGlobalContext();
 
-  const handleAddtoCart = (e, product) => {
+  const handleAddCart = (e, product) => {
     e.preventDefault();
     e.stopPropagation();
     addCart(product);
-  };
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
   };
 
   if (isPending) return <p>Yuklanmoqda...</p>;
@@ -61,7 +57,7 @@ export default function Home() {
                 <div className="card-actions justify-end">
                   <button
                     className="btn btn-primary"
-                    onClick={(e) => handleAddtoCart(e, prod)}
+                    onClick={(e) => handleAddCart(e, prod)}
                   >
                     Savatga solish
                   </button>

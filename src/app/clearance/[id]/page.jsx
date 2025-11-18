@@ -49,7 +49,7 @@ function ClearancePage({ params }) {
   }
 
   return (
-    <div className="p-4 max-w-xl mx-auto">
+    <div className="mt-[8rem] p-4 max-w-xl mx-auto">
       <img
         className="w-full rounded-xl mb-4"
         src={prod.thumbnail}

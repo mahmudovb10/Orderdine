@@ -20,7 +20,7 @@ export default function Home() {
   if (error) return <p>Xato: {error.message}</p>;
 
   return (
-    <div>
+    <div className="home__win">
       <h1 className="mainDesc">
         Orderdine: Sifatli oziq-ovqat va ichimliklarni qulay onlayn buyurtma
         qilish platformasi. <br />
@@ -28,6 +28,7 @@ export default function Home() {
       </h1>
       <div
         className="
+        home__prod__cards
         grid 
         gap-6
         grid-cols-1

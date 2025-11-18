@@ -1,6 +1,7 @@
 "use client";
 
 import { useGlobalContext } from "@/context/GlobalContext";
+import Link from "next/link";
 
 export default function BasketPage() {
   const { cart, cartTotal } = useGlobalContext();
@@ -8,14 +9,16 @@ export default function BasketPage() {
   if (!cart || cart.length === 0) return <p>Savatcha bo‘sh</p>;
 
   return (
-    <div className="container">
+    <div className="container basket__win">
       <h1 className="basket__title">Savatcha</h1>
       <div>
         {cart.map((prod) => (
           <div key={prod.id}>
             <div className="basket__prod__cart">
               <div className="basket__left">
-                <img className="basket__prod__img" src={prod.thumbnail} />
+                <Link href={`/singleproduct/${prod.id}`}>
+                  <img className="basket__prod__img" src={prod.thumbnail} />
+                </Link>
                 <h2 className="basket__title">{prod.title}</h2>
               </div>
 

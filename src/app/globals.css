@@ -40,14 +40,21 @@ body {
   padding-right: 1rem;
 }
 
+.header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
 .mainDesc {
   font-family: "Alan Sans";
   font-weight: 700;
   font-size: 1rem;
   text-align: center;
+  margin-top: 9rem;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 3rem;
 }
 
 .prodCard {
@@ -217,4 +224,12 @@ body {
   cursor: pointer;
   position: relative;
   bottom: 1.2rem;
+}
+
+.basket__win {
+  margin-top: 8rem;
+}
+
+.home__prod__cards {
+  margin-top: 5rem;
 }

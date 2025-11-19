@@ -123,10 +123,10 @@ function LayoutContent({ children }) {
                       className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
                     >
                       <li>
-                        <a href="/profile" className="justify-between">
-                          Profil
+                        <Link href={"/profile"}>
+                          <p className="justify-between">Profil</p>
                           <span className="badge">New</span>
-                        </a>
+                        </Link>
                       </li>
                       <li>
                         <a>Sozlamalar</a>

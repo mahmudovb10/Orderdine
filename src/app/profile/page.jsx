@@ -1,7 +1,9 @@
+"use client";
+
 function page() {
   return (
-    <div>
-      <h1>Profile</h1>
+    <div className="container">
+      <h1 className="mt-[8rem]">Profile</h1>
     </div>
   );
 }
